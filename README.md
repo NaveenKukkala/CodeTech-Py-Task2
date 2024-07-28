@@ -1,3 +1,9 @@
+Name:Kukkala.Naveen
+Company:CODTECH IT SOLUTIONS
+ID:CT12DS382
+Domain:PYTHON PROGRAMMING
+Mentor:G.Sravani
+Overview OF The Project :-
 ## Student Grade Tracker
 
 ### Overview
